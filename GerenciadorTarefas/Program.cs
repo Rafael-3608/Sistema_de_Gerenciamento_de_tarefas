@@ -71,11 +71,3 @@ switch (resposta)
         break;
 }
 } while(resposta != 0);
-/*
-Criar um sistema de gerenciamento de tarefas
-onde os seus requisitos são:
--adicionar uma nova tarefa
--listar todas as tarefas registradas
--remover uma tarefa
-sair
-*/
